@@ -1,6 +1,9 @@
 # go-learn-vendoring-glide
 getting started with glide dependency manager for golang vendoring
 
+- trying to get familiar with some function-programming libs
+    - linq looks promising ;)
+
 ## download glide
 https://glide.sh/
 
