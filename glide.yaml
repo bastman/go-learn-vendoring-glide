@@ -1,0 +1,10 @@
+package: go-learn-vendoring-glide
+import:
+- package: github.com/chrislusf/glow
+  subpackages:
+  - flow
+- package: github.com/ahmetb/go-linq
+  version: ~3.0.0
+- package: github.com/yanatan16/itertools
+- package: github.com/doloopwhile/go-itertools
+

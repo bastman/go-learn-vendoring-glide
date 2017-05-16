@@ -1,0 +1,23 @@
+hash: 2b6855e19c22de37fd2af5b46fa114402b00bc94aa8f2f0f0e59061119f04df0
+updated: 2017-05-16T16:13:42.261550304+02:00
+imports:
+- name: github.com/ahmetb/go-linq
+  version: 7e71c124c1f903df09ca08678f145f68b45d125e
+- name: github.com/chrislusf/glow
+  version: a8a9c0279c909ab49c3fc4523f499cd1ac89251c
+  subpackages:
+  - flow
+  - netchan
+  - netchan/receiver
+  - netchan/sender
+  - resource
+  - resource/service_discovery/client
+  - resource/service_discovery/master
+  - util
+- name: github.com/doloopwhile/go-itertools
+  version: ac1277f574f2427d8dc4d2175ecefe8b730ba3bf
+- name: github.com/psilva261/timsort
+  version: 4537dc9bd679bfb730b72f2e8c33b46676521337
+- name: github.com/yanatan16/itertools
+  version: afd1891e0c4fc9f9129c7b6bbb22de9e7a652a9b
+testImports: []
